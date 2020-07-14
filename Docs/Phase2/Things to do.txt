@@ -1,0 +1,5 @@
+Solid design
+Er diagram of the database
+UML diagram of the application
+Reducing ER to Relation
+Report
